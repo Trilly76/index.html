@@ -1,0 +1,13 @@
+h1 {
+ text-align: center;
+ color: black;
+}
+ body {
+   text-align: left;
+   color: black;
+   background: lightblue;
+ }
+ p {
+   text-align: justify;
+   color: black;
+ }
